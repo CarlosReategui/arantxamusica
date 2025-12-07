@@ -45,6 +45,7 @@ app/
 
 ## Assets
 
+- `/public/arantxa/` - Photos of Arantxa (the singer)
 - `/public/icon/` - Fairy icon in various colors (brand icon)
 - `/public/logo/` - "Arantxa" text logo in various colors
 
