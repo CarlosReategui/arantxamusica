@@ -1,0 +1,12 @@
+---
+description: Refactor and reuse existing components
+globs:
+alwaysApply: true
+---
+
+# Code Reusability
+
+- **Refactor when possible**: If you see repeated code patterns, extract them into reusable components or utilities.
+- **Reuse existing components**: Before creating new components, check if similar functionality already exists in `app/components/`.
+- **Follow DRY principle**: Don't Repeat Yourself. Consolidate duplicate logic.
+- **Check styleguide components**: Components in `app/components/styleguide/` are designed to be reusable across the project.

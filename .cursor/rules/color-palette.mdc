@@ -1,0 +1,27 @@
+---
+description: Brand color palette for Arantxa's portfolio
+globs:
+alwaysApply: true
+---
+
+# Color Palette
+
+All colors are defined in `app/components/styleguide/ColorPalette.tsx`. Always reference and use colors from there.
+
+If you need to add new colors, add them to that file to maintain a single source of truth.
+
+## Brand Colors
+
+- Primary 1: `rgb(28, 137, 89)` - Green
+- Primary 2: `rgb(247, 143, 32)` - Orange
+- Secondary 1: `#0691CF` - Blue
+- Secondary 2: `rgb(101, 31, 210)` - Purple
+
+## Theme Colors
+
+- Background: `#e0d4c3` - Warm beige/cream
+- Background Elevated: `#d4c7b5`
+- Background Card: `#f5ede3`
+- Foreground: `#4a4541`
+- Foreground Muted: `#7a746d`
+- Border: `#c4b8a7`

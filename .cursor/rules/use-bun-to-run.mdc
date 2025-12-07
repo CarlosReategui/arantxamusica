@@ -1,0 +1,17 @@
+---
+description: Always use bun as the package manager
+globs:
+alwaysApply: true
+---
+
+# Package Manager
+
+Always use **bun** as the package manager for this project. Do not use npm, yarn, pnpm, or any other package manager.
+
+- Install dependencies: `bun install`
+- Add a package: `bun add <package>`
+- Add a dev dependency: `bun add -d <package>`
+- Remove a package: `bun remove <package>`
+- Run scripts: `bun run <script>`
+- Run dev server: `bun run dev`
+- Build: `bun run build`
