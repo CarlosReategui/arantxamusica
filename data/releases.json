@@ -1,0 +1,34 @@
+[
+  {
+    "id": "a-flor-de-piel",
+    "name": "a flor de piel",
+    "description": "El primer álbum de Arantxa, una exploración del amor, el desamor y lo que significa crecer en tus 20s.",
+    "coverImage": "/releases/a-flor-de-piel.jpg",
+    "link": "https://farolatino.ffm.to/a-flor-de-piel-",
+    "featured": true
+  },
+  {
+    "id": "sesion",
+    "name": "sesión",
+    "description": "Un sencillo íntimo que captura momentos de reflexión y vulnerabilidad.",
+    "coverImage": "/releases/sesion.jpg",
+    "link": "https://farolatino.ffm.to/sesion",
+    "featured": false
+  },
+  {
+    "id": "album-de-fotos",
+    "name": "álbum de fotos",
+    "description": "Una canción nostálgica que recorre los recuerdos a través de fotografías.",
+    "coverImage": "/releases/album-de-fotos.jpg",
+    "link": "https://farolatino.ffm.to/album-de-fotos",
+    "featured": false
+  },
+  {
+    "id": "cumplemes",
+    "name": "cumplemes",
+    "description": "Celebrando los pequeños momentos y aniversarios que marcan una relación.",
+    "coverImage": "/releases/cumplemes.jpg",
+    "link": "https://farolatino.ffm.to/cumplemes",
+    "featured": false
+  }
+]
