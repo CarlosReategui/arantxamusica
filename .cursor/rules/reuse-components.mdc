@@ -10,3 +10,20 @@ alwaysApply: true
 - **Reuse existing components**: Before creating new components, check if similar functionality already exists in `app/components/`.
 - **Follow DRY principle**: Don't Repeat Yourself. Consolidate duplicate logic.
 - **Check styleguide components**: Components in `app/components/styleguide/` are designed to be reusable across the project.
+
+## Reusable UI Components
+
+Located in `app/components/ui/`:
+
+- **Button** (`app/components/ui/Button.tsx`) - Button/link component with variants (`primary`, `primary-2`, `secondary`, `secondary-2`, `outline`, `ghost`) and sizes (`sm`, `md`, `lg`)
+- **Card** (`app/components/ui/Card.tsx`) - Card container with border and background styling, padding options (`none`, `sm`, `md`, `lg`)
+- **SectionHeading** (`app/components/ui/SectionHeading.tsx`) - Section header with title, optional subtitle, and centered option
+
+## Domain Components
+
+Located in `app/components/`:
+
+- **ReleaseCard** (`app/components/ReleaseCard.tsx`) - Display music releases with cover image, title, description, and listen button. Variants: `default` and `featured`
+- **Navbar** (`app/components/Navbar.tsx`) - Main navigation bar
+- **NavLink** (`app/components/NavLink.tsx`) - Navigation link with active state
+- **SocialIcons** (`app/components/SocialIcons.tsx`) - Instagram & TikTok social icons
